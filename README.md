@@ -1,1 +1,1 @@
-# ftp-deploy
+# ftp-deploy-sample
